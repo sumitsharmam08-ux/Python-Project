@@ -5,7 +5,8 @@ age = st.number_input('Enter ur Age....')
 if age>= 18:
   st.write("You are eligible for License...")
   # st.balloons()
-  st.snow()
+  # st.snow()
+  st.toast()
 else:
   st.write('You are not eligible...')
   
