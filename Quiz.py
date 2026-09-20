@@ -6,7 +6,7 @@ if age>= 18:
   st.write("You are eligible for License...")
   # st.balloons()
   # st.snow()
-  st.toast()
+  st.toast("Elligbile")
 else:
   st.write('You are not eligible...')
   
