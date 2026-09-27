@@ -4,9 +4,9 @@ st.write('Hello, I am Sumit, Welcome to my quiz Zone.. Hope you like the game. Y
 ("welcome to the quiz game .....\n")	
 
 st.write('1.Which river is widely recognized as the longest river in the world? \nA.Amazon River   \nB.Nile River   \nC.Yangtze River   \nD.Mississippissouri River System')
-ans1 = text_input('enter your choice....')
+ans1 = text_input('enter your choice 1....')
 st.write('2.The Code of Hammurabi, one of the oldest deciphered writings of significant length in the world, originated from which ancient civilization? \nA.Ancient Egypt\nB.Indus Valley Civilization\nC.Babylonian Empire\nD.Ancient Greece')
-ans2 = text_input('enter your choice....')
+ans2 = text_input('enter your choice 2....')
 st.write('3.Which of the following is the smallest individual bone in the human body? \nA.Stapes\nB.Malleus\nC.Incus\nD.Patella')
 ans3 = text_input('enter your choice....')
 st.write('who is the national animal of india?\nA.bear\nB.giraffe\nC.lion\nD.tiger')
