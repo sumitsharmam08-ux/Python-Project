@@ -49,10 +49,10 @@ st.write(total)
 
 if total == 40: 
    st.write('congratulation..you have 1st position')
-   st.balloons
+   st.balloons()
 if total == 30:
    st.write('congratulation you have 2nd position')
-   st.snow
+   st.snow()
 if total == 20:
    st.write('congratulation you have passed the quiz')
 else:
