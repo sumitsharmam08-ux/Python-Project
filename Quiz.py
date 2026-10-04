@@ -3,7 +3,7 @@ import streamlit as st
 st.write('Hello, I am Sumit, Welcome to my quiz Zone.. Hope you like the game. You may please Proceed further for gaming...')
 ("welcome to the quiz game .....\n")	
 
-st.write('1.Which river is widely recognized as the longest river in the world \nA.Amazon River   \nB.Nile River   \nC.Yangtze River   \nD.Mississippissouri River System')
+st.write('1.Which river is widely recognized as the longest river in the world \nA.Amazon River\nB.Nile River\nC.Yangtze River\nD.Mississippissouri River System')
 ans1 = st.text_input('enter your choice 1....')
 st.write('2.The Code of Hammurabi, one of the oldest deciphered writings of significant length in the world, originated from which ancient civilization?\nA.Ancient Egypt\nB.Indus Valley Civilization\nC.Babylonian Empire\nD.Ancient Greece')
 ans2 = st.text_input('enter your choice 2....')
